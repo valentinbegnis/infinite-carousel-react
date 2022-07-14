@@ -1,2 +1,2 @@
 # infinite-carousel-react
-Infinite carousel with React
+Infinite autoplay carousel with React, Swiper & ChakraUI
